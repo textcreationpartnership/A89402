@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Divell in Kent, or His strange delusions at Sandwitch.</title>
+            <title>Divell in Kent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89402</idno>
+            <idno type="STC">Wing M2997</idno>
+            <idno type="STC">Thomason E401_14</idno>
+            <idno type="STC">ESTC R201781</idno>
+            <idno type="EEBO-CITATION">99862281</idno>
+            <idno type="PROQUEST">99862281</idno>
+            <idno type="VID">160419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160419)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Divell in Kent, or His strange delusions at Sandwitch.</title>
+                  <title>Divell in Kent.</title>
+                  <author>Lipeat, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeer M DC XLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of "The examination of John Mowlin of Sandwitch", dated May 13, 1647, and "Here followeth the unfolding of the strange delusion of the aforesaid John Mowlin, by a vision appearing to Thomas Lipeat of Sandwitch aforesaid", dated May 5, 1647; the latter is signed at end: Thomas Lipeat.</note>
+                  <note>Annotation on Thomason copy: "Aug: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mowlin, John --  Early works to 1800.</term>
+               <term>Demoniac possession --  England --  Early works to 1800.</term>
+               <term>Devil --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160419:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>THE DIVELL IN KENT, <hi>OR</hi> His ſtrange Deluſions <hi>AT</hi> SANDWITCH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer, MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="statement">
+            <pb facs="tcp:160419:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="1" facs="tcp:160419:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>Sandwitch, May 13, 1647.</head>
+            <head type="sub">The Examination of <hi>John Mowlin</hi> of Sandwitch, Taylor, taken before <hi>Henry Foſter</hi> Mator, <hi>William Wilſon, Andrew Goffrich,</hi> and others his Majeſties Juſtices there.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſaid Examinant ſaith, that yeſterday was five weeks he being at work on his table, there fell from above (to according his own phraſe) a power upon him, and that he being wel and ſtrong in his joynts, was caſt into a great depth of mourning, in ſo much that tears did abundantly guſh from him: as he ſewed by his wife, there appeared a Viſion before him, of which he was ready to demand this queſtion, <hi>What are thou?</hi> but had not ſtrength to bring it forth: And the firſt words that were pronoun<g ref="char:EOLhyphen"/>ced by the apparition were <hi>Thy joy ſhall be ſuch as no man ſhall take from thee;</hi> upon which words this Examinant had much comfort; and then the Viſion which he ſaw being in the ſhape of a man in a ſad coloured coat without a ſeam, with a powerfull voice ſaid, <hi>I am he that have holes in my hands and feet.</hi> And the next voice that came from him ſaid, <hi>I am α and ω, the beginning and the ending, the firſt and the laſt.</hi> And the next voice was, <hi>Behold, I am even at the very door:</hi> which was all that was ſpoken at that time. And this Examinant was all the night following admiring at what he had ſeen and heard; and the next morning this Scripture came to his mind. <hi>Through the tender mercies of our God, whereby the day ſpring from on high hath viſited us.</hi> And the next day following this Ex<g ref="char:EOLhyphen"/>aminant having ſeen and heard as before, was queſtioning with himſelf whether it ſhould be declared to any or not; and about nine
+<pb n="2" facs="tcp:160419:3"/>
+               <!-- PDF PAGE 88 -->of the clock it was told this Examinant, it was given him to de<g ref="char:EOLhyphen"/>clare to thoſe baptized perſons with whom he was a member. And the next Lords day this Examinant was appointed by the Viſion to be at one Goody <hi>Foreman</hi>'s houſe at three of the clock in the af<g ref="char:EOLhyphen"/>ternoon, which he did accordingly perform, where there were preſent about ſixteen perſons; <hi>viz. Thomas <gap reason="blank" resp="#UOM" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>, William Wood, Anne Palmer,</hi> Goody <hi>Higgins,</hi> Goody <hi>Boykins,</hi> Maſter <hi>Bate<g ref="char:EOLhyphen"/>man,</hi> Goody <hi>Godfrey</hi> of high ſtreet, Goody <hi>Nokes, John Smith, Henry Stringer,</hi> and others whom he knew not: and in the pre<g ref="char:EOLhyphen"/>ſence of all the parties aforeſaid hee did declare what before he had expreſſed. And ſome of them were great oppoſites to what this Examinant had ſpoken; but who they were hee doth not well re<g ref="char:EOLhyphen"/>member: But upon their oppoſition this Scripture the night fol<g ref="char:EOLhyphen"/>lowing came into his mind, <hi>The plowers have made long furrows upon my back;</hi> applying this to the oppoſers aforeſaid. And the next night following a word was given him, <hi>I have loved thee, ſee that the appearance of thy love be ſeen:</hi> then ſaid this Examinant, he was conſtrained to <hi>love God, becauſe he had loved him firſt.</hi> And a while after the next words were, that <hi>Thoſe whom God had choſen did do whatſoever he commanded them.</hi> Then this Examinant que<g ref="char:EOLhyphen"/>ſtioned with himſelf what God would have him do, and had an inward ſuggeſtion to goe to <hi>John Foremans</hi> houſe, and there it ſhould be told him what he ſhould do. And about nine of the clock the laſt Faſt day this Examinant went to <hi>Foremans</hi> houſe where the woman lay upon her bed ſick, and ſate down; and ſhe asked him if hee had any thing to ſay unto her: and ſhee ſaid, If you have a word to ſpeak, ſpeak it. To which this Examinant gave her no anſwer: but ſuddenly after this Examinant asked her how long ſhe had been ſick, ſhe anſwered, three yeers and three quarters. And the next words of this Examinant were to the woman, <hi>Daughter, the ſame Jeſus that appeared to me with holes in his hands and feet make thee every whit whole:</hi> and then he went away. And about 3 of the clock in the afternoon following the woman came to the Examinants houſe rejoycing; but what her expreſſions were he knoweth not. And a while after another voice came to this Examinant, and ſaid, <hi>Behold ſhe prayeth; and as Ananias was ſent to Paul when he prayed, to baptize him, ſo was this Examinant called forth to dip this woman, whom God had made every whit whole,
+<pb n="3" facs="tcp:160419:3"/>
+                  <!-- PDF PAGE 88 -->In the name of the Father, Son, and holy Ghoſt:</hi> and accordingly he did dip her at Beagrams. And afterward upon another calling, this Examinant did likewiſe dip one Goody <hi>Herwoed,</hi> to whom before that this Examinant had been ſent: and hee ſaid to her firſt, that <hi>The pride of thy heart is an abomination to the Lord.</hi> And the next was, <hi>Thus ſaith the Lord, the fourth Angell ſtandeth over thee with fire in his viall to conſume thee except thou repent.</hi> And the third was, <hi>We be to you Hypocrites, except you repent you ſhall periſh:</hi> all which was revealed to this Examinant before he told it her. And within leſſe then half an hour before this Examinant went away, ſhe was ſmitten and mourned bitterly: and ſo this Examinant de<g ref="char:EOLhyphen"/>parting, had heard that ſhe had kept her bed three or four dayes af<g ref="char:EOLhyphen"/>terward, and did ſcarce ſpeak ſometimes three or four hours toge<g ref="char:EOLhyphen"/>ther: and the laſt Saturday morning, ſaith this Examinant, The word was given from above with power, <hi>Behold, ſhe prayeth:</hi> and ſo this Examinant went the ſame morning up into the chamber unto her about ſix of the clock, ſhe lying a bed; and the firſt words he ſpake to her were, <hi>Ariſe ſiſter, the ſame Jeſus which ſmote thee down, hath ſent me that thou ſhouldſt ariſe;</hi> &amp; be baptized in the name of the Father, Son, and holy Ghoſt: and immediately ſhe aroſe and followed this Examinant to a place called <hi>Brewers Bridge,</hi> where he dipt her, though ſhe had been dipt before. And he further ſaid, that a Voice about ten dayes agoe ſpake to this Examinant as he lay in his bed, and ſaid, <hi>John Ariſe:</hi> and immediately hee aroſe and went to work, and wrought untill 12 of the clock that day; and the Voice ſaid, <hi>Go to the man that was born blind,</hi> and then the blind man appeared in a Viſion: and about one of the clock this Exami<g ref="char:EOLhyphen"/>nant went to him, and ſpake to him as he ſate at his door, <hi>Henry, A<g ref="char:EOLhyphen"/>riſe;</hi> and he anſwered, he would: and then this Examinant told him, he was ſent to him that he ſhould receive his ſight. <hi>Henry</hi> an<g ref="char:EOLhyphen"/>ſwered, Come, let us ſee what will be done. And ſo he aroſe, and this Examinant bid him lay his hands about his middle; and hee ſaid, <hi>Father, thou art in thy throne, get hononr and great name:</hi> and then this Examinant laid his thumbs on his eyes, and ſaid, <hi>Henry, open thine eyes, and receive thy ſight:</hi> and he opened his eyes, but did not ſee. All theſe words this Examinant ſpake to him, leaving God that ſent him (as he ſaid) to work the effect according to his good pleaſure.</p>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:160419:4"/>
+            <!-- PDF PAGE 89 -->
+            <head>Here followeth the unfolding of the ſtrange deluſion of the aforeſaid <hi>John Mowlin,</hi> by a Viſion appearing to <hi>Thomas Lipeat</hi> of Sandwitch aforeſaid: wherein the mighty power of God was ſeen in his ſupport, <hi>May</hi> 5, 1647.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Etween three and four of the clock in the morning there was a light did ſhine in my chamber, my thoughts being fixt on a place of Scripture concern<g ref="char:EOLhyphen"/>ing the love of God through Chriſt to the Saints: and caſting mine eye aſide, I ſaw a round ball of fire, and from thence did ſtream forth great ſtreams of light; and when I ſaw it, my fleſh did tremble: and in the light there did ſpeak a Voice to me, and ſaid, <hi>Fear not, it is the voice of Peace that ſpeaketh to thee, and it ſaith, The peace of him is at hand.</hi> And the 22 day it came again in like manner, and ſpake the ſame words: and the 23 day it came again and ſpake in like manner, adding withall, that <hi>The Deceiver of Nations was gone forth, and had deceived many; but now the everlaſting Goſpel of Jeſus Chriſt is to be preached; then the Deceiver of Nations ſhall deceive them no more:</hi> and ſaid that I ſhould have a meſſage to declare to the ſons of men, and that I ſhould preach the everlaſting Goſpel to the people, to bid them repent. And the 23 day in the evening there did appear a glimmering light, not as it did before, and the Lord had drawn forth my ſpirit to ſpeak to him by prayer, that the Truth might appear to mee, and ſo be able to judge whether it were of God or not; that by my ſpeaking God might not be diſhonoured, nor the Truth ſuffer; but that it might appear to the world whe<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:160419:4"/>
+               <!-- PDF PAGE 89 -->it were of God, or of the Divell: and the Lord did ſatisfie me in it, that it was from the Divell: and the Lord gave me cou<g ref="char:EOLhyphen"/>rage to ſpeak to it twice. And this evening it ſaid to me, that <hi>I muſt go to John Mowlin, and he ſhould breathe on me, and I ſhould be filled with the holy Spirit.</hi> And I anſwered that I had not faith to believe that. And the Voice ſaid, thou ſhalt beleeve it; and that <hi>John Mowlin</hi> and I were ſet apart to preach the everlaſting Goſpel to all men. And then I ſpake to it, and ſaid, What is that everlaſting Goſpel? And hee ſaid, To bid men repent. I did an<g ref="char:EOLhyphen"/>ſwer, that in Scripture I ſaw no ſuch Goſpel: but Jeſus Chriſt is the ſubſtance of the everlaſting Goſpel to the Saints. And on the 24 day in the morning it came in the likeneſſe of the Moon, and the Voice ſpake to me again, and ſaid, that <hi>as Paul and Barnabas were ſet apart for the work of the Lord, ſo were John Mowlin and I to preach this everlaſting Goſpel to all men where we do come.</hi> And I did anſwer again, that that was not the everlaſting Goſpel that was to be preached. And the Voice ſaid, What faith haſt thou? <hi>John Mowlin</hi> doth believe it. Then ſpake I to it on this wiſe: <hi>Shall I ſay, the Viſion of the Lord, and the Voice of the Lord in the viſion ſpake thoſe things to me?</hi> And the anſwer of the Voice to me was; <hi>Say not, the Viſion of the Lord, nor the Voice of the Lord in the viſion:</hi> but ſay, <hi>A Viſion did appear, and a Voice ſpake theſe things to thee.</hi> This anſwer maketh it appear to me that it was not of God. The 26 day in the evening it did appear to mee in a ſtrange form, and the Lord gave me courage to behold it, and to ſpeak to it again: and the Voice ſaid unto mee, <hi>Why doſt thou not go to John Mowlin?</hi> And I ſaid, <hi>What to do?</hi> And the Voice ſaid, <hi>Thou haſt been ſhewed to him in a Viſion; and when thou comeſt to him he will know thee, and pray with thee, and breathe in thee the holy Spirit; and hee ſhall baptize thee with water: and thou ſhalt have two witneſſes to witneſſe the truth of it to the world.</hi> And the 27 day in the night I had ſome<g ref="char:EOLhyphen"/>thing revealed to me from the Lord in a Dream, That in the mor<g ref="char:EOLhyphen"/>ning I ſhould ſee him that had deceived <hi>John Mowlin</hi> in the ſhape of a man, and ſaid, When thou ſeeſt him thou ſhalt not be affraid, for thou ſhalt be as Mount Sion, which cannot be ſhaken: for I have called thee by name, and he ſhall entiſe thee with money, but take it not; For my grace is ſufficient for thee, and my preſence ſhall go before thee; I am thy God, and will not faile thee. And
+<pb n="6" facs="tcp:160419:5"/>
+               <!-- PDF PAGE 90 -->in the morning it appeared to me in the likeneſſe of a Gentleman, very compleat in his habit, with a fair countenance, who ſaid to me, <hi>Why doſt thou not go to John Mowlin?</hi> And I ſaid, <hi>What to do?</hi> And hee ſaid, <hi>To be filled with the holy Ghoſt, and to be baptized of him, that thou mayſt go forth and preach the everlaſting Goſpel, to bid men Repent.</hi> And he did then offer me gold and ſilver, and ſaid to me, This will help to bear thy charges, for thou art a very poor man: and further ſaid, Take it, and appoint me any place, and keep the day and hour, and thou ſhalt not want all thy life. And I ſaid, I need it not; for the grace of God is ſufficient for me. And he ſaid, Why doſt thou not believe my ſayings? There be ſix with <hi>John Mowlin</hi> that do believe my ſayings. And ſo he went away. Thus I even ſee, what is of God ſhall ſtand.</p>
+            <closer>
+               <signed>Thomas Lipeat.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
